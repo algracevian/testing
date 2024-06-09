@@ -1,0 +1,11 @@
+{
+    "name": "satset/test",
+    "description": "Uji coba web PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Algres, Wahib, Hussein"
+        }
+    ],
+    "require": {}
+}

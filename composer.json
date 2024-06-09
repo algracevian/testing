@@ -1,13 +1,8 @@
 {
     "name": "satset/test",
-    "description": "Coba kode web PHP",
+    "description": "coba PHP kak",
     "type": "project",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Satset\\Test\\": "src/"
-        }
-    },
+    "license": "proprietary",
     "authors": [
         {
             "name": "algres, wahib, hussein"
